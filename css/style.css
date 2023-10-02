@@ -23,7 +23,7 @@ body {
     
     footer {
         margin-top: auto;
-        background-color: #1c1919; /* Set your preferred background color */
+        background-color: rgb(91, 87, 87); /* Set your preferred background color */
         display: flex;
         justify-content: center;
         align-items: center;
